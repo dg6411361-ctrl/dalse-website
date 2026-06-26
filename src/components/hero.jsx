@@ -14,7 +14,7 @@ function Hero() {
   const slide = [
     {
       image: hero1,
-      title: "Grow partner",
+      title: "Grow partner again",
       desc: "Connect with top consultants hand picked by elixir consulting and finanace",
     },
     {
