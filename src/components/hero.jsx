@@ -1,4 +1,3 @@
-import React from "react";
 import "./Hero.css";
 import "swiper/css";
 import "swiper/css/navigation";
